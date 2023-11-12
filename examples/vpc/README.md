@@ -1,1 +1,1 @@
-# terraform-digitalocean-droplet/vpc
+# terraform-digitalocean-networking/vpc
